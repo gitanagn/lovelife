@@ -1,0 +1,65 @@
+.insert-quote {
+    width: 100%;
+    height: auto;
+}
+
+/*#form-info {*/
+    /*text-align: left;*/
+    /*max-width: 1200px;*/
+    /*margin: 0 auto;*/
+/*}*/
+
+/*#reset-button {*/
+    /*display: none;*/
+/*}*/
+
+/*.insert-quote input[type=text],*/
+/*.insert-quote input[type=email]*/
+/*{*/
+    /*max-width: 250px;*/
+/*}*/
+
+input, textarea, button {
+    border: 0;
+    outline: 0;
+    padding: 12px;
+    display: block;
+    width: 100%;
+    margin-bottom: 12px;
+    resize: none;
+    font-family: "Open Sans Light", cursive;
+    box-sizing: border-box;
+    background-color: #fce7e7;
+}
+
+textarea {
+    height: 126px;
+}
+
+.input-submit {
+    color: white;
+    background: #605e5e;
+    cursor: pointer;
+    width: 150px;
+    height: 60px;
+    margin: 0 auto;
+}
+
+.half {
+    float: left;
+    width: 48%;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+.right {
+    width: 50%;
+}
+
+.left {
+    margin-right: 2%;
+}
+
+.clear {
+    clear: both;
+}

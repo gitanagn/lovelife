@@ -1,0 +1,19 @@
+.flex-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-title {
+    /*font-family: 'Great Vibes', cursive;*/
+    font-family: 'Miss Fajardose', cursive;
+    font-size: 100px;
+    color: #605E5E;
+    margin: 100px 0 40px 0;
+}
+
+.pink-line {
+    background-color: #fce7e7;
+    height: 25px;
+    /*border-bottom: 1.5px ridge #c0987b;*/
+}

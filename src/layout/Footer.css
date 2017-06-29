@@ -1,0 +1,55 @@
+footer,
+footer a {
+    background-color: #464646;
+    margin-top: 20px;
+    padding-top: 40px;
+    height: 470px;
+    color: #fff;
+    text-align: center;
+}
+
+.footer-container {
+    display: flex;
+}
+
+.register {
+    font-family: 'Miss Fajardose', cursive;
+    font-size: 70px;
+}
+
+.footer-container-item {
+    width: 25%;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.footer-container-img {
+    display: block;
+    margin: 0 auto;
+}
+
+.text-muted {
+    font-size: 10px;
+    text-decoration: none;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    padding-top: 60px;
+}
+
+.subscribe {
+    background: none;
+}
+
+#input-subscribe {
+    background-color: #fce7e7;
+    color: #2f2e2e;
+    border-radius: 0px;
+    width: 220px;
+}
+
+#input-subscribe-submit {
+    background-color: #dcc9b8;
+    color: #2f2e2e;
+    border-radius: 0px;
+    width: 100px;
+}

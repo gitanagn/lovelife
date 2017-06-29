@@ -1,0 +1,22 @@
+.menu-container {
+    padding: 24px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.menu-item {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.menu-link.menu-active,
+.menu-link:hover {
+    color: #CAA3A3;
+}
+
+.menu-link {
+    padding: 12px 40px;
+    display: inline-block;
+    text-decoration: none;
+    color: #2D2D2D;
+}
