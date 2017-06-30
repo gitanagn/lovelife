@@ -7,3 +7,10 @@
     column-gap: 20px;
     text-align: left;
 }
+
+.signature {
+    font-family: 'Miss Fajardose', cursive;
+    text-align: center;
+    font-size: 48px;
+    padding-top: 20px;
+}

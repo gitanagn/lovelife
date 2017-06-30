@@ -8,7 +8,7 @@ class Blockquote extends Component {
             <div className="about-first-row">
                 <div className="about-image">
                     <img src="images/flower.jpg" alt="Apie projektą" width="800px" height="auto"/>
-                    <div className="blockquote"><p>Nežinau, koks buvo tavo gyvenimas ligi šiol ir su kokiu jausmu
+                    <div className="blockquote"><p>„Nežinau, koks buvo tavo gyvenimas ligi šiol ir su kokiu jausmu
                         prabundi rytais. Bet
                         spėju, kad dar nepriklausai tiems, kurie neapsakomai žavisi gyvenimu ir laiko jį patraukliu,
                         jaudinančiu, didelės pagarbos vertu dalyku.</p>
@@ -21,7 +21,7 @@ class Blockquote extends Component {
                             tęsti šį nuotykį, vadinamą žmogaus gyvenimu.“</p>
                         <p>Spėju, kad tavo dienos pradžia atrodo
                             šiek tiek kitaip.</p>
-                        <p>Kaip pradedi savo dienas, tokios jos ir yra.</p> <cite>Robert Betz</cite>
+                        <p><strong>Kaip pradedi savo dienas, tokios jos ir yra.</strong>“</p> <cite>~ Robert Betz</cite>
                     </div>
                 </div>
             </div>

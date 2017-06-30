@@ -7,25 +7,13 @@ class Description extends Component {
             <div className="body-max-width">
                 <h1>Kas yra „Love life“?</h1>
                 <div className="description">
-                    <p>Poetai ir saldžių romanų rašytojai piešia moterį kaip trapią, jausmingą
-                        būtybę. Realiame gyvenime aplinkybės dažnai mums neleidžia būti tokiomis. Namų ūkis, vaikai,
-                        karjera yra mūsų kasdienybė. Tuo tarpu poilsis, ramybė - tampa prabanga. Gerai, jei esi
-                        kupina jėgų bėgti per šį žvėrišku tempu lekiantį gyvenimą. Bet daugelis moterų kartkartėmis
-                        taria sau „viskas nebegaliu“...</p>
-                    <p>Puikiai supranti, kad niekas už tave nesutvarkys namų,
-                        nepagamins vakarienės, neužaugins vaikų ir nepadės stulbinančios karjeros ant lėkštutės. Visko
-                        pasiekti turi pati. Kai tampa sunku, jėgų gali atrasti įsiklausiusi į išminčių patarimus. Vienas
-                        du sakiniai, turintys gilią iki širdies gelmių prasmę. Vienas du sakiniai, galintys priversti
-                        ropštis iš bedugnės krašto ir energingai žengti pirmyn.</p>
-                    <p>Sėkminga moteris - ta, kuri turi
-                        tikslų. Ta, kuri juos drąsiai siekia. Ta, kuri klysta, bet nenuleidžia rankų. Ta, kuri bijo, bet
-                        nesislepia, o žvelgia baimei į akis. Ta, kuri myli, bet protingai. Ta, kuri augina, bet
-                        nepamiršta savęs. Ta, kuri dirba ir siekia, o ne kažko laukia.</p>
-                    <p>Sėkminga moteris - ta,
-                        kuriai visi sako „jai tai sekasi“. Bet tik tu žinai, kad šios sėkmės paslaptis - tai sunkus
-                        darbas.</p>
-                    <p>Šiame puslapyje rasi įkvepiančių, padrąsinančių, motyvuojančių ar
-                        pralinksminančių, tik tau ir tavo sėkmei skirtų citatų. Būk sėkminga! Būk moteris!</p>
+                    <p>Nuolatos mūsų gyvenime esantis laimės šaltinis po truputį praranda savo galią. Kitaip tariant, prie nuolatinės laimės yra greitai priprantama ir nebevertinama. Buvo imta mąstyti, kaip išvengti šio pripratimo reiškinio. Apskritai yra dvi išeitys. Pirmoji: retsykiais patirti šių „gerų įprastų dalykų“, prie kurių taip greitai priprantame, stygių: elektros tinklo gedimas padeda suvokti, kokia laimė, kad elektrą mes turime; artimųjų nutolimas padeda įsisavinti, kokia laimė gyventi šalia jų; kojos lūžis parodo, kaip nuostabu yra vaikščioti, ir pan. Antroji: nuolatos stengtis įsisamoninti, kokia sėkmė mus lydi kasdien...</p>
+                    <p>Norint gyventi laimingai, reikia mėgautis dabarties akimirka, nenutolti nuo gamtos, gerbti kitus žmones, gyventi paprastą ir kuklų gyvenimą, neskubėti pykti ir pan. </p>
+                    <p>Juo labiau sąmonė klaidžioja, juo mažiau mes laimingi: proto išsiblaškymas lemiamai veikia laimę. Vienas geriausių teigiamas emocijas sukeliančių veiksnių yra ne mūsų veiklos pobūdis, o veikiau dėmesingumo lygis, kurį išlaikome ją atlikdami: pavyzdžiui, susitelkę į atliekamą darbą esam laimingesni negu pramogaudami, bet tuo pat metu galvodami apie ką nors kita.</p>
+                    <p>Projektas <em>Love life</em> vaizdingai pateikia žymių žmonių ir išminčių citatas, priverčiančias mus stabtelti, susimąstyti, šypsotis. Skiltyje „Mintys iš knygų“ rasite geriausias ištraukas iš psichologinių, savęs pažinimo vadovėlių. Jei turite Jus motyvuojančių ir įkvepiančių citatų, maloniai prašome pasidalinkite skiltyje „Atsiųsk citatą“.</p>
+                    <p>Kad pasikeistum, svarbiausia ne tai, ką žinai, o tai, ką darai.</p>
+                    <p>Malonaus skaitymo. Prasmingų atradimų. Būkite laimingi. <em>Love life!</em></p>
+                    <p className="signature">Gitana</p>
                 </div>
             </div>
         );
