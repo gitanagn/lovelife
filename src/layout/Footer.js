@@ -10,10 +10,8 @@ class Footer extends Component {
                 <div className="body-max-width">
                     <div className="footer-container">
                         <div className="footer-container-item">
-                            <p className="register">prenumeruok</p>
-                            <p>Įvesk savo elektroninio pašto adresą ir būk tikra, kad nepraleisi naujausių motyvuojančių
-                                citatų.
-                                Registruokis jau dabar! </p>
+                            <div className="register">Prenumerata</div>
+                            <div className="footer-description">Įveskite savo elektroninio pašto adresą ir būkite tikri, kad nepraleisite naujausių įkvepiančių citatų! </div>
                             <form className="subscribe">
                                 <input type="email" id="input-subscribe" placeholder="El.paštas"/>
                                 <input type="submit" id="input-subscribe-submit" value="Siųsti"
@@ -24,9 +22,9 @@ class Footer extends Component {
                         {/*Facebook column*/}
                         <div className="footer-container-item">
                             <div className="footer-container-img"><img className="footer-container-img"
-                                                                       src="images/map.png"
-                                                                       alt="map" width="400" height="auto"/>
-                                SEK MUS<br/><span className="register">facebook</span></div>
+                                                                       src="images/friendship.png"
+                                                                       alt="map" width="380" height="auto"/>
+                                <div className="footer-img-text"><a href="https://www.facebook.com/EsuSekmingaMoteris/" target="_blank">SEKITE MUS<br/><span className="register">facebook</span></a></div></div>
                         </div>
                     </div>
                 </div>

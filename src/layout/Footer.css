@@ -1,8 +1,7 @@
-footer,
-footer a {
+footer {
     background-color: #464646;
     margin-top: 20px;
-    padding-top: 40px;
+    padding-top: 60px;
     height: 470px;
     color: #fff;
     text-align: center;
@@ -17,8 +16,22 @@ footer a {
     font-size: 70px;
 }
 
+.footer-description {
+    font-size: 16px;
+    width: 300px;
+    padding: 70px 0 70px 0;
+    margin: 0 auto;
+}
+
+a,
+a:hover,
+a:visited {
+    text-decoration: none;
+    color: #2f2e2e;
+}
+
 .footer-container-item {
-    width: 25%;
+    width: 50%;
     padding: 5px;
     margin: 0 auto;
 }
@@ -28,28 +41,45 @@ footer a {
     margin: 0 auto;
 }
 
+.footer-img-text {
+    position: relative;
+    bottom: 240px;
+    left: 40px;
+    color: #2f2e2e;
+
+}
+
 .text-muted {
     font-size: 10px;
     text-decoration: none;
     letter-spacing: 2px;
     text-transform: uppercase;
-    padding-top: 60px;
+    padding-top: 10px;
 }
 
 .subscribe {
     background: none;
+    display: inline;
+    margin: 0 auto;
 }
 
 #input-subscribe {
     background-color: #fce7e7;
     color: #2f2e2e;
     border-radius: 0px;
-    width: 220px;
+    width: 210px;
+    height: 40px;
+    display: inline;
+    margin-right: 12px;
+
 }
 
 #input-subscribe-submit {
     background-color: #dcc9b8;
     color: #2f2e2e;
     border-radius: 0px;
-    width: 100px;
+    width: 140px;
+    height: 40px;
+    display: inline;
+    cursor: pointer;
 }
