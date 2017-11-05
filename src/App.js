@@ -20,7 +20,7 @@ class App extends Component {
             <Router>
                 <div className="App">
                     <Header />
-                    <MenuNav />
+                    {/*<MenuNav />*/}
                     <Route exact path="/" component={Home}/>
                     <Route path="/Books" component={Books}/>
                     <Route path="/About" component={About}/>

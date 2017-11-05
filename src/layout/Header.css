@@ -1,19 +1,33 @@
-.flex-logo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.Header {
+    background: url("/images/header-sekminga-moteris.png") no-repeat scroll transparent;
+	background-size: cover;
+	background-position: bottom;
+	height: 90vh;
+	position: relative;
 }
 
 .logo-title {
-    /*font-family: 'Great Vibes', cursive;*/
-    font-family: 'Miss Fajardose', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 100px;
-    color: #605E5E;
-    margin: 100px 0 40px 0;
+    color: #fff;
+    margin: 100px 0 60px 0;
+    text-align: center;
 }
 
-.pink-line {
-    background-color: #fce7e7;
-    height: 25px;
-    /*border-bottom: 1.5px ridge #c0987b;*/
+.logo-tagline {
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.logo-placeholder {
+    position: absolute;
+    margin-left: -318px;
+    left: 50%;
+	margin-top: -107px;
+	top: 35vh;
+}
+
+.logo-placeholder > div {
+	text-shadow: 0 0 15px rgba(82,72,70,0.8);
 }

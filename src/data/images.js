@@ -1,5 +1,60 @@
 const images = [
     {
+        imgPath: "images/1710/aitvarai.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/aplenkti-save.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/atsigrezk-i-saule.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/griauti-savo-laime.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/ipraskim-neapkalbeti.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/kontroliuojate.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/neskubek-vertinti.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/neverkiu-del-problemu.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/pamirsk-ka-nori-pasakyti.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/pasidziauk-atkarpele.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/pries-pagalvokite.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/reikia-problemu.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+    {
+        imgPath: "images/1710/svarbu-ka-darai.jpg",
+        imgName: "Džiaukis gyvenimu"
+    },
+
+
+
+    {
         imgPath: "images/dziaukis-gyvenimu.jpg",
         imgName: "Džiaukis gyvenimu"
     },

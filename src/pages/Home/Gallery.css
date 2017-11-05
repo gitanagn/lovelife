@@ -1,5 +1,7 @@
 .gallery {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 5px;
+    position: relative;
+    top: -100px;
+    margin-bottom: -100px;
 }
