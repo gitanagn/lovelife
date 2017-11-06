@@ -31,3 +31,54 @@
 .logo-placeholder > div {
 	text-shadow: 0 0 15px rgba(82,72,70,0.8);
 }
+
+@media only screen and (max-width: 699px) {
+    .logo-title {
+        font-size: 80px;
+    }
+    .logo-tagline {
+        font-size: 20px;
+    }
+    .logo-placeholder {
+        margin-left: -252px;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .logo-title {
+        font-size: 60px;
+        margin-bottom: 30px;
+    }
+    .logo-tagline {
+        font-size: 16px;
+    }
+    .logo-placeholder {
+        margin-left: -189px;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .logo-title {
+        font-size: 54px;
+        margin-bottom: 20px;
+    }
+    .logo-tagline {
+        font-size: 16px;
+    }
+    .logo-placeholder {
+        margin-left: -170px;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    .logo-title {
+        font-size: 44px;
+        margin-bottom: 20px;
+    }
+    .logo-tagline {
+        font-size: 14px;
+    }
+    .logo-placeholder {
+        margin-left: -131px;
+    }
+}

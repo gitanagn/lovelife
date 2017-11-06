@@ -3,5 +3,24 @@
     flex-wrap: wrap;
     position: relative;
     top: -100px;
-    margin-bottom: -100px;
+    margin: 0 20px -100px 20px;
+}
+
+.button-center {
+    clear: both;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.load-more {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    border: 2px solid rgba(218,181,170,1);
+    background-color: rgba(255,255,255,1);
+    display: inline-block;
+}
+
+.load-more:hover {
+    cursor: pointer;
+    color: #a5a5a5;
 }

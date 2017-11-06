@@ -15,3 +15,16 @@
 /*.one-img:hover {*/
     /*opacity: 0.7;*/
 /*}*/
+
+
+@media only screen and (max-width: 1200px) and (min-width: 700px) {
+    .gallery-img {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 699px) {
+    .gallery-img {
+        width: 100%;
+    }
+}

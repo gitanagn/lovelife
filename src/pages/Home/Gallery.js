@@ -34,8 +34,8 @@ class Gallery extends Component {
             <div className="gallery">
                 {/*<Image imgPath="images/gyvenimas-grazus.jpg" imgName="It always seems impossible until it\'s done"/>*/}
                 {this.renderImages(images)}
-                <div>
-                    {this.state.loadedCounter < imagesData.length && <button onClick={this.handleClick}>Rodyti daugiau...</button>}
+                <div className="button-center">
+                    {this.state.loadedCounter < imagesData.length && <button className="load-more" onClick={this.handleClick}>Rodyti daugiau...</button>}
                 </div>
             </div>
         );
